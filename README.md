@@ -1,5 +1,5 @@
-Ruby version ruby 2.1.1p76 (2014-02-24 revision 45161) [x86_64-darwin13.0]
-Rails 4.1.0
+- Ruby version ruby 2.1.1p76 (2014-02-24 revision 45161) [x86_64-darwin13.0]
+- Rails 4.1.0
 
 System dependencies:
   Requires POSTGRESQL server
